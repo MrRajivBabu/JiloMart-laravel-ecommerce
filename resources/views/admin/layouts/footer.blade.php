@@ -6,8 +6,8 @@
                             <script>
                                 document.write(new Date().getFullYear());
                             </script>
-                            , Developed ❤️ by
-                            <a href="#" target="_blank" class="footer-link fw-bolder">Rajib Sarder</a>
+                            , Copyright ❤️ by
+                            <a href="#" target="_blank" class="footer-link fw-bolder">Jilomart</a>
                         </div>
 
                     </div>
